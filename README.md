@@ -20,7 +20,7 @@ A landing page that have:
 
 
 ## Link
-You can experience the deployed project here: [Basic Landing Page URL]().
+You can experience the deployed project here: [Basic Landing Page URL](https://hadisparsa.github.io/Basic-Landing-Page/gi).
 
 
 ## The following demo shows the web application's appearance and functionality:
